@@ -1,0 +1,146 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/*-----------------------------------------------Encabezado----------------------------------------------*/
+header{
+    background-color: transparent;
+    text-align: center;
+}
+
+.logo-menu .menu a{
+    display: inline-block;
+    padding: 40px 20px;
+    margin: 20px;
+}
+
+.logo-menu .menu a:hover{
+    border-bottom: 4px solid #ff9f1c;
+    padding-bottom: 36px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color:white;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+nav a:hover{
+    color: #c78c19;
+
+}
+
+/*-----------------------------------------------Body----------------------------------------------*/
+body{
+    background: linear-gradient(135deg, #4f385f, #8f425b, #c3004d ,#284869, #498183, #93c59d, #cbd6e9   );
+    animation: gradient 20s ease infinite;
+    background-size: 500% 500%;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+[class*="col-"] {
+    float: left;
+}
+
+.m-1{margin: .5em;}
+.m-2{margin: 1em;}
+.m-3{margin: 1.5em;}
+.m-4{margin: 2em;}
+
+.p-1{margin: .5em;}
+.p-2{margin: 1em;}
+.p-3{margin: 1.5em;}
+.p-4{margin: 2em;}
+
+.text-area{
+    width: 99%;
+    height: 50%;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    border: 2px solid rgba( 255, 255, 255, 0.18 );
+    border-radius: 15px 25px 5px 35px;
+    color: rgba(250, 253, 253, 0.808);
+    background-color: transparent;
+}
+
+.card{
+    background-color: transparent;
+    height: 28em;
+    border: 2px solid rgba( 255, 255, 255, 0.18 );
+    border-radius: 15px 25px 5px 35px;
+}
+.error{background-color: rgba(17, 0, 255, 0.342);}
+
+.btn{
+    width: 100%;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.btn-primary{
+    background-color: rgba(57, 57, 228, 0.808);
+    border: 1px solid rgba(57, 57, 228, 0.808);
+    color: #fff;
+}
+
+.btn-primary:hover{
+    background-color: rgba(142, 142, 238, 0.808);
+    border: 1px solid rgba(142, 142, 238, 0.808);
+    color: rgba(57, 57, 228, 0.808);
+}
+
+.btn-info{
+    background-color: rgba(199, 199, 211, 0.808);
+    border: 1px solid rgba(57, 57, 228, 0.808);
+    color: rgba(57, 57, 228, 0.808);
+}
+
+.btn-info:hover{
+    background-color: rgba(57, 57, 228, 0.5);
+    border: 1px solid rgba(57, 57, 228, 0.808);
+    color: #fff;
+}
+
+.imagen{
+    display: block;
+}
+
+
+.ocultarImagen{display: none;}
+.left{text-align: start;}
+.center{text-align: center;}
+
+.copiar{
+    position: absolute;
+    width: 30%;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 2em ;
+}
+/*-----------------------------------------------Pie de pagina----------------------------------------------*/
+footer{
+    text-align: center;
+    background: #0A3871;
+    opacity: 100;
+    padding: 40px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    margin: 20px auto 0;
+    color: #fff;
+}
