@@ -4,6 +4,10 @@
 
 > Challenge ONE Sprint 01: Construye un encriptador de texto con JavaScript
 
+## Uso
+
+Para probar la aplicación da clic [aquí](https://joshvargasm3.github.io/PORTAFOLIO/index.html)
+
 
 ## Agradecimientos
 
