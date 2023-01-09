@@ -6,7 +6,7 @@
 
 ## Uso
 
-Para probar la aplicación da clic [aquí](https://joshvargasm3.github.io/PORTAFOLIO/index.html)
+Para probar la aplicación da clic [aquí](https://joshvargasm3.github.io/website/)
 
 
 ## Agradecimientos
