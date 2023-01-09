@@ -8,4 +8,4 @@
 ## Agradecimientos
 
 - ONE – Oracle Next Education
-- [Allura](https://www.aluracursos.com/)
+- [Alura](https://www.aluracursos.com/)
