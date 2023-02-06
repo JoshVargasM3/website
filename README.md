@@ -3,6 +3,7 @@
 ## Descripción
 
 > Challenge ONE Sprint 01: Construye un encriptador de texto con JavaScript
+> Es el primer desafio del programa ORACLE NEXT EDUCATION, donde empleamos lo visto en el primer módulo con herramientas que todo desarrollador de software debe contar.
 
 ## Uso
 
