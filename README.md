@@ -13,12 +13,19 @@
 - Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
 - la pagina debe estar construida visualmente usando HTML y CSS.
 - La pagina debe ser responsiva (opcional)
+- 
+## Las "llaves" de encriptación que utilizaremos son las siguientes:
+`La letra "e" es convertida para "enter"`
+`La letra "i" es convertida para "imes"`
+`La letra "a" es convertida para "ai"`
+`La letra "o" es convertida para "ober"`
+`La letra "u" es convertida para "ufat"`
 
 ## Uso
 
 Para probar la aplicación da clic [aquí](https://joshvargasm3.github.io/website/)
 
-##Caracteristicas
+## Caracteristicas
 
 - Diseño Responsivo - Mobile UI - Desktop UI
 
