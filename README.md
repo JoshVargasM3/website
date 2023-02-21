@@ -7,10 +7,12 @@
 
 ## Uso
 
-Para probar la aplicación da clic [aquí](https://joshvargasm3.github.io/website/)
+Para probar la aplicación da clic [aquí.](https://joshvargasm3.github.io/website/)
 
 ## Tecnologias utilizadas
-<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width='30px'> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width='30px'> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width='30px'> <img src="https://www.svgrepo.com/show/448222/figma.svg" width='33px'>
+<p align="center" dir="auto">
+<img align="center" src="https://skills.thijs.gg/icons?i=js,html,css,figma,git" />
+</p>
 
 ## Requisitos:
 - Debe funcionar solo con letras minúsculas
@@ -36,7 +38,7 @@ Para probar la aplicación da clic [aquí](https://joshvargasm3.github.io/websit
 - [Alura](https://www.aluracursos.com/)
 
 <!--HACKER-IMAGES--> 
-### Contributions
+### Contribuciones
 >Aspiring to be a great software developer.
-<p align="center" dir="auto"><img src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/Mastermind.gif" width="75%"></p>
+<p align="center" dir="auto"><img src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/Mastermind.gif" width="50%"></p>
 <p align="center" dir="auto">Made by José Luis Vargas with ❤️</p>
