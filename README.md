@@ -34,3 +34,9 @@ Para probar la aplicación da clic [aquí](https://joshvargasm3.github.io/websit
 
 - ONE – Oracle Next Education
 - [Alura](https://www.aluracursos.com/)
+
+<!--HACKER-IMAGES--> 
+### Contributions
+>Aspiring to be a great software developer.
+<p align="center" dir="auto"><img src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/Mastermind.gif" width="75%"></p>
+<p align="center" dir="auto">Made by José Luis Vargas with ❤️</p>
