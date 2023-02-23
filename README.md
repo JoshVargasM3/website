@@ -40,5 +40,5 @@ Para probar la aplicación da clic [aquí.](https://joshvargasm3.github.io/websi
 <!--HACKER-IMAGES--> 
 ### Contribuciones
 >Aspiring to be a great software developer.
-<p align="center" dir="auto"><img src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/Mastermind.gif" width="50%"></p>
+<p align="center" dir="auto"><img src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/Mastermind.gif" width="100%"></p>
 <p align="center" dir="auto">Made by José Luis Vargas with ❤️</p>
